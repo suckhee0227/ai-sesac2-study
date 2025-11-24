@@ -1,0 +1,15 @@
+.vscode 폴더 생성 후 settings.json 파일 생성, 그리고 아래 내용을 settings.json 파일에 저정
+
+​
+
+{
+
+  "python.defaultInterpreterPath": "C:/dev/agent/.venv/Scripts/python.exe",
+
+  "python.terminal.activateEnvironment": true,
+
+  "python.analysis.venvPath": "C:/dev/agent",
+
+  "python.experiments.optOutFrom": ["All"]
+
+}
